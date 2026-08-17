@@ -6,8 +6,8 @@
 // ======================
 // Konfigurasi WiFi & Server
 // ======================
-const char* ssid     = "PUMA KEMBAR";
-const char* password = "kembar69";
+const char* ssid     = "nama wifi/hotspot";
+const char* password = "sandi wifi/hotspot";
 // Ganti dengan IP laptop/server lokal kamu, atau domain jika sudah online
 const char* serverUrl = "http://192.168.18.5/monitoring-alat/simpan_rfid.php"; 
 
